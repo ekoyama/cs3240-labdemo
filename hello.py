@@ -1,3 +1,3 @@
 def greeting(msg):
-    print(hello)
+    print(msg)
 greeting("hello")
