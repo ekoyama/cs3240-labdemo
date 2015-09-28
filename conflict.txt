@@ -1,6 +1,6 @@
-# cs3240-labdemo
 <<<<<<< HEAD
-good-bye
+print("good-bye")
 =======
-hello
->>>>>>> 0a378fc4ce3057d2346c887cae1d54452727d447
+from helper import greeting
+greeting("good-bye")
+>>>>>>> develop
