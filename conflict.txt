@@ -1,6 +1,0 @@
-# cs3240-labdemo
-<<<<<<< HEAD
-good-bye
-=======
-hello
->>>>>>> 0a378fc4ce3057d2346c887cae1d54452727d447
